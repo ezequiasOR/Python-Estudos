@@ -58,7 +58,7 @@ netifaces==0.10.4
 numpy==1.22.0
 oauth==1.0.1
 olefile==0.45.1
-paramiko==2.10.1
+paramiko==3.4.0
 passlib==1.7.1
 pexpect==4.2.1
 Pillow==10.0.1
