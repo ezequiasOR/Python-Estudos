@@ -98,7 +98,7 @@ Send2Trash==1.4.2
 simplejson==3.13.2
 six==1.13.0
 SQLAlchemy==1.1.11
-sqlparse==0.4.4
+sqlparse==0.5.0
 sshtunnel==0.1.4
 system-service==0.3
 systemd-python==234
